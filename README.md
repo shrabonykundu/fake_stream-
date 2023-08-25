@@ -20,6 +20,3 @@ Allows infinite streaming of a video as webcam output for different applications
   * `ffplay /dev/video<WebcamID you chose>`
   * [Webcam Tests](https://webcamtests.com/) can also be used.
 *  Open Zoom or Skype and select a different video source.
-
-
-Cheers!!
